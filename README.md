@@ -1,4 +1,11 @@
-# Jishu's Shop — Static Website
+﻿"
+# Merged README
+
+> This file was automatically merged by assistant to combine local and remote README content.
+
+--- Local README content (extracted) ---
+
+# Jishu's Shop â€” Static Website
 
 This is a small static site scaffold for a shop. It lives in `my-aws-website` and is ready to serve locally or be deployed to AWS S3 as a static website.
 
@@ -30,3 +37,9 @@ aws s3 website s3://your-unique-bucket-name --index-document index.html --error-
 Notes:
 - Images use `picsum.photos` placeholders. Replace them with your product images in `index.html`/`js/script.js`.
 - If you want a shopping cart or backend, I can add a simple JSON API or integrate Stripe for payments.
+
+
+--- Remote README content (origin/main) ---
+# aws-website
+
+"
